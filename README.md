@@ -39,6 +39,18 @@
 
 ---
 
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rckzst4r&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rckzst4r&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rckzst4r&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 📬 How to reach me?
 * GitHub: [@Rckzst4r](https://github.com/Rckzst4r)
 * Got tips or wanna chat? Feel free to reach out!
