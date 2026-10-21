@@ -52,5 +52,6 @@
 ---
 
 ## 📬 How to reach me?
-* GitHub: [@Rckzst4r](https://github.com/Rckzst4r)
+* GitHub:   [@Rckzst4r](https://github.com/Rckzst4r)
+* Discord:  [@Rckzst4r](discord.com/users/1137462928828809306)
 * Got tips or wanna chat? Feel free to reach out!
