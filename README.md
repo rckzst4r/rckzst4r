@@ -48,10 +48,6 @@
   <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Rckzst4r&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rckzst4r&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 📬 How to reach me?
